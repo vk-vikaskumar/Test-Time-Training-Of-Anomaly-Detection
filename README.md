@@ -1,7 +1,7 @@
 # Test-Time Training of Anomaly Detection in Time Series (In Progress)  
 
 ## Overview  
-This repository contains the implementation and research findings from my Master's thesis on **Test-Time Training for Anomaly Detection in Time Series**. The work builds on the concepts introduced in the paper ["About Test-time training for outlier detection"](https://arxiv.org/abs/2404.03495), adapting its methodology to time-series data.  
+This repository contains the implementation and research findings from my Master's thesis on **Test-Time Training for Anomaly Detection in Time Series**. The work builds on the concepts introduced in the paper [About Test-time training for outlier detection](https://arxiv.org/abs/2404.03495), adapting its methodology to time-series data.  
 
 ## Problem Statement  
 Anomaly detection in time-series data is challenging, especially in real-world applications where data distributions shift over time. Traditional supervised models require extensive labeled data and retraining, which is impractical in dynamic environments.  
